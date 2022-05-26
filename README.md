@@ -1,12 +1,12 @@
 # Power Profiles Automation
 
-A simple method of automating the power-profiles-daemon settings in Fedora 35.
+A simple method of automating the power-profiles-daemon settings in Fedora 35/36.
 
 ## Description
 This workaround puts a pair of simple scripts in place to change the power profile of power-profiles-daemon to power-saver on battery and performance on AC power.
 
 ## Installation
-1. In terminal, run the `installer.sh` as root
+1. In terminal, run the `installer.sh` and enter sudo password when prompted.
 2. Reboot
 
 OR
