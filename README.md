@@ -2,7 +2,7 @@ Forked from https://gitlab.com/EikoTsukida/power-profiles-automation
 
 # Power Profiles Automation
 
-A simple method of automating the power-profiles-daemon settings in Fedora 35/36.
+A simple method of automating the power-profiles-daemon settings in Fedora, and maybe other distributions.
 
 ## Description
 This workaround puts a pair of simple scripts in place to change the power profile of power-profiles-daemon to power-saver on battery and performance on AC power.
