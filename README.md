@@ -1,3 +1,5 @@
+Forked from https://gitlab.com/EikoTsukida/power-profiles-automation
+
 # Power Profiles Automation
 
 A simple method of automating the power-profiles-daemon settings in Fedora 35/36.
